@@ -22,7 +22,7 @@
 
 ### 🚀 Featured Project
 
-- **[mafilesbotv7](https://github.com/Jith2252/mafilesbotv7)**  
+- **[Tmafilesbotv7](https://github.com/Jith2252/Tmafilesbotv7)**  
   <em>Your favorite project—describe it briefly here to entice visitors!</em>
 
 ---
